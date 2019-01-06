@@ -1,0 +1,20 @@
+
+# Created by https://www.gitignore.io/api/vuejs,firebase
+# Edit at https://www.gitignore.io/?templates=vuejs,firebase
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
+
+### Vuejs ###
+node_modules
+.DS_Store
+docs/_book
+test/
+
+# End of https://www.gitignore.io/api/vuejs,firebase
